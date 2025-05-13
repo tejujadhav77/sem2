@@ -1,0 +1,34 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "library.xsl"?> 
+<library>
+  <book id="001">
+	<title>Learning XML</title>
+	<author>John Smith</author>
+	<year>2020</year>
+  </book>
+  <book id="002">
+	<title>Advanced XML</title>
+	<author>Jane doe</author>
+	<year>2021</year>
+  </book>
+  <book id="003">
+	<title>XML for Beginners</title>
+	<author>Alice Johnson</author>
+	<year>2019</year>
+  </book>
+  <book id="004">
+	<title>Mastering XML and XSLT</title>
+	<author>Robert Lee</author>
+	<year>2022</year>
+  </book>
+  <book id="005">
+	<title>Practical XML</title>
+	<author>Susan Brown</author>
+	<year>2023</year>
+  </book>
+  <book id="006">
+	<title>XML and Web Services</title>
+	<author>David Green</author>
+	<year>2024</year>
+  </book>
+</library>

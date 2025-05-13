@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "employees.xsl"?>
+<employees>
+  <employee id="01">
+	<name>Aditya Joshi</name>
+	<department>IT</department>
+	<position>Software Developer</position>
+	<salary>75000</salary>
+  </employee>
+  <employee id="02">
+	<name>Neha Kulkarni</name>
+	<department>Human Resources</department>
+	<position>HR Manager</position>
+	<salary>65000</salary>
+  </employee>
+  <employee id="03">
+	<name>Rohit Wagh</name>
+	<department>IT</department>
+	<position>System Analyst</position>
+	<salary>70000</salary>
+  </employee>
+  <employee id="04">
+	<name>Pooja Patil</name>
+	<department>Finance</department>
+	<position>Accountant</position>
+	<salary>60000</salary>
+  </employee>
+  <employee id="05">
+	<name>Karan Deshmukh</name>
+	<department>Marketing</department>
+	<position>Marketing Executive</position>
+	<salary>58000</salary>
+  </employee>
+</employees>
+	
+	
